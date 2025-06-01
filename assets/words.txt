@@ -1,0 +1,8 @@
+spider
+house
+apple
+airplane
+bird
+cat
+fish
+flower
